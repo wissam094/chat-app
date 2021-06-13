@@ -1,0 +1,48 @@
+.header {
+  background-image: url("./image/1.jpg");
+  background-color: #cccccc;
+  width: 100%;
+  position: relative;
+  padding: 2px;
+  color: white;
+
+  h4 {
+    margin-top: 8px;
+    margin-bottom: 0;
+    padding: 0;
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 10;
+    padding: 10;
+    position: relative;
+    top: 2px;
+    left: -22px;
+  }
+}
+
+.wissam {
+  height: 10%;
+  position: relative;
+  top: 2px;
+  left: -135px;
+  margin: -10;
+  padding: -10;
+}
+.image {
+  width: 48%;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+.image p {
+  font-size: 15px;
+  background-color: rgba(126, 26, 64, 0.897);
+  padding: 5%;
+  border-radius: 50%;
+  position: relative;
+  left: 0px;
+  top: -0.7px;
+}
